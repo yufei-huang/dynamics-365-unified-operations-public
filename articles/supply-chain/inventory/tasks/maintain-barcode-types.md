@@ -45,6 +45,6 @@ This procedure shows you how to set up a new bar code definition which can then 
 1. Select **Save**.
 1. Close the page.
 
-
+For the steps of setting up bar codes, refer to [Set up bar code masks](https://docs.microsoft.com/en-us/dynamics365/commerce/set-up-bar-code-masks)
 
 [!INCLUDE[footer-include](../../../includes/footer-banner.md)]
