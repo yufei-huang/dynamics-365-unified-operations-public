@@ -29,6 +29,8 @@ ms.dyn365.ops.version: Release 10.0.17
 
 [!include [banner](../../includes/banner.md)]
 
+Before you can use the Landed Cost module, it must be turned on in your system. Admins can use the feature management settings to check the status of the feature and turn it on. In the Feature management workspace, search for feature **Landed Cost** and choose **Enable Now**. After that you can refresh the page and the Landed Cost module will appear on the module list to the left of the page.
+
 You use the **Landed cost parameters** page to set up general information and configuration settings that are used across the **Landed cost** module for posting, status updates, number sequences, and behavior. The setup of parameters is shared across legal entities and can be modified by an administrator.
 
 ## Open the Landed cost parameters page
